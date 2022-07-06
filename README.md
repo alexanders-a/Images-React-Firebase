@@ -1,4 +1,5 @@
-# React-app TS Todo
+# React-app-images and Firebase 🔥
+
 ## [Live demo](https://alexandrsa.web.app/)😀
 
 ## Settings demo 
