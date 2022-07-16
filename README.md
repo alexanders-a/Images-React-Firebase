@@ -1,6 +1,6 @@
 # React-app-images and Firebase 🔥
 
-## [Live demo](https://alexandrsa.web.app/)😀
+## [Live demo](https://alexandersa.surge.sh/)😀
 
 ## Settings demo 
 
